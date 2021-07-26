@@ -1,8 +1,8 @@
 ### Intégration Image Modulaire(architecture)
 
 ![Image text](https://github.com/John-Gate/architecture-integration/blob/main/src/image/2021-07-26%20(2).png)
->Image à intégrer
->
+>Image à intégrer, provenance [Dribbble](https://dribbble.com/shots/15998835-Hommes-Architecture-Landing-Page)
+
 ### Intégration simple utilsant :
 * HTML
 * CSS
