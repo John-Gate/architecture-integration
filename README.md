@@ -6,6 +6,7 @@
 * HTML
 * CSS
 
+Résultat à retrouver [ici](https://john-gate.github.io/architecture-integration)
 
 ## Contact
 * [Email](mailto:barrierejc@live.fr?subject=[GitHub]%20Source%20Han%20Sans)
