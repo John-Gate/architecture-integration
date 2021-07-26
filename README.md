@@ -7,6 +7,15 @@
 * HTML
 * CSS
 
+
+## Notes
+L'IDE que j'ai utilisé est *Visual Studio Code*. 
+Animation au survol des bouttons.
+Responsive à 1186px.
+Taille min 720px.
+*Image alternative pour décoration.
+
+
 Résultat à retrouver [ici](https://john-gate.github.io/architecture-integration)
 
 ## Contact
