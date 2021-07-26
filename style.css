@@ -286,7 +286,7 @@ align-items: center;
   margin: 0;
 }
 .bloc3{
-  background-image: url(src/image/archichi.jpg);
+  background-image: url(./src/image/archichi.jpg);
   background-size: 100%;
   background-repeat:no-repeat ;
   width: auto;
