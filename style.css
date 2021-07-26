@@ -186,7 +186,6 @@ align-items: center;
 	border: none;
   padding: 0.5rem 1rem;
   margin: 0 .2rem;
-	border: 1px solid black;
 	position: relative;
 	display: inline-block;
 }
@@ -210,6 +209,9 @@ align-items: center;
   position: absolute;
   bottom: -164px;
   z-index: 1;
+}
+.button-border{
+  border: 1px solid #000;
 }
 /*////////////////////////
  BLOC 2
@@ -578,10 +580,8 @@ align-items: center;
     pointer-events: auto;
     cursor: pointer;
     background-color: #FFF;
-    border: none;
     padding: 0.5rem 1rem;
     margin: 0 ;
-    border: 1px solid black;
     position: relative;
     width: 7rem;
     display: flex;
@@ -589,6 +589,7 @@ align-items: center;
     align-items: center;
     margin-top: 1rem;
 }
+
 
 @media only screen and (max-width: 1186px) {
     .container{
