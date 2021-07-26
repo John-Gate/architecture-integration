@@ -1,4 +1,4 @@
-### Intégration Image (architecture)
+### Intégration Image Modulaire(architecture)
 
 ![Image text](https://github.com/John-Gate/architecture-integration/blob/main/src/image/2021-07-26%20(2).png)
 
